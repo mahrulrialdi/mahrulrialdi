@@ -1,4 +1,6 @@
-![Header](https://i.ibb.co.com/SxNWB2w/Header.jpg)
+<div align="center">
+  <img src="https://i.ibb.co.com/SxNWB2w/Header.jpg" alt="Header" />
+</div>
 
 # Hi there, I'm Mahrul! 👋
 
