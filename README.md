@@ -1,6 +1,6 @@
-![Header](https://your-image-link.com/header.png)
+![Header](https://drive.google.com/file/d/1ZSIS15NsVgJUHGDMv1bTMlCRFgNN4bTN/view?usp=sharing)
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mahrul! 👋
 
 [![Website](https://img.shields.io/badge/Website-YourSite.com-3b5998?style=flat-square&logo=google-chrome)](https://yoursite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourname)
