@@ -1,4 +1,4 @@
-![Header](https://drive.google.com/file/d/1ZSIS15NsVgJUHGDMv1bTMlCRFgNN4bTN/view?usp=sharing)
+![Header](https://drive.google.com/file/d/1ZSIS15NsVgJUHGDMv1bTMlCRFgNN4bTN)
 
 # Hi there, I'm Mahrul! 👋
 
