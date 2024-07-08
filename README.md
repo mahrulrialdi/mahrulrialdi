@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://i.ibb.co.com/SxNWB2w/Header.jpg" alt="Header" />
-</div>
 
 # Hi there, I'm Mahrul! 👋
 
@@ -9,6 +8,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/yourusername?tab=repositories)
+
+</div>
 
 ## About Me
 
